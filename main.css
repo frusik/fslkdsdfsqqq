@@ -1,0 +1,171 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    position: absolute;
+
+}
+
+.block {
+    background-color: #000000;
+    height: 37px;
+    width: 263px;
+    position: absolute;
+    right: 10vh;
+    border-radius: 30px;
+}
+
+.blockkk {
+    background-color: #000000;
+    top: 47vh;
+    height: 4px;
+    width: 370px;
+    position: absolute;
+    right: 5vh;
+}
+
+.text {
+    display: flex;
+}
+
+.text {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    position: fixed;
+    top: -3px;
+    left: 90px;
+}
+
+.text a{
+    color: #ffffff;
+    text-decoration: none !important;
+    border: none !important;
+    font-size: 20px;
+}
+
+.foto {
+    position: absolute;
+    top: 13px;
+    right: 2vh;
+}
+
+.fotoe {
+    position: absolute;
+    top: 15px;
+    left: 2vh;
+}
+
+.blockk {
+    background-color: #000000;
+    position: absolute;
+    top: 7vh;
+    width: 320px;
+    height: 4px;
+    left: 8vh;
+}
+
+.fotoo {
+    position: absolute;
+    top: 8vh;
+    width: 320px;
+    height: 4px;
+    left: 5vh;
+}
+
+.div {
+    background-color: #1E1E1E;
+    position: absolute;
+    top: 185px;
+    left: 5vh;
+    width: 131px;
+    height: 34px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 11px 000000;
+}
+
+.ttr {
+    font-size: 17px;
+    position: absolute;
+    top: 7px;
+    left: 25px;
+}
+
+.ttr a{
+    color: white;
+    text-decoration: none !important;
+    border: none !important;
+    text-shadow: 0px 0px 11px white;
+}
+
+.divv {
+    background-color: #1E1E1E;
+    position: absolute;
+    top: 185px;
+    right: 5vh;
+    width: 131px;
+    height: 34px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 11px 000000;
+}
+
+.ttrr {
+    font-size: 17px;
+    position: absolute;
+    top: 7px;
+    right: 25px;
+}
+
+.ttrr a{
+    color: white;
+    text-decoration: none !important;
+    border: none !important;
+    text-shadow: 0px 0px 11px white;
+}
+
+.fotoot {
+    position: absolute;
+    top: 12vh;
+    width: 320px;
+    height: 4px;
+    right: -13vh;
+}
+
+.fotoott {
+    position: absolute;
+    top: 23vh;
+    right: 23vh;
+}
+
+.fotoottt {
+    position: absolute;
+    top: 20vh;
+    left: 5vh;
+}
+
+.di {
+    background-color: #1E1E1E;
+    position: absolute;
+    top: 39vh;
+    right: 17vh;
+    width: 165px;
+    height: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 11px 000000;
+}
+
+.tr {
+    font-size: 17px;
+    position: absolute;
+    top: 5px;
+    right: 40px;
+}
+
+.tr a{
+    color: white;
+    text-decoration: none !important;
+    border: none !important;
+    text-shadow: 0px 0px 11px white;
+}
